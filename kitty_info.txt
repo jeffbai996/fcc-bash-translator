@@ -8,3 +8,13 @@ Number of words:
 
 Number of characters:
 1738
+
+Number of times meow or meowzer appears:
+7
+
+Lines that they appear on:
+1
+4
+10
+22
+23
